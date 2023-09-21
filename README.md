@@ -10,3 +10,7 @@ Activity 1<br>
 Activity 2<br>
 
 ![Screenshot 2023-09-20 at 10 33 03 PM](https://github.com/Peteredwardj/ECE444-F2023-Lab1/assets/51882829/90877ceb-5b33-4cf8-a7c9-7a5327907ab6)
+
+Activity 3 <br>
+
+![Screenshot 2023-09-20 at 11 18 40 PM](https://github.com/Peteredwardj/ECE444-F2023-Lab1/assets/51882829/68753146-6f7c-43b9-8b3f-0f403c94fb94)
